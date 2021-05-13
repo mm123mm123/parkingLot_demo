@@ -1,0 +1,440 @@
+[
+  {
+    "name": "基础云平台",
+    "dataName": "slider-basic",
+    "show": true,
+    "color": "#18e1f9",
+    "recommend": false,
+    "children": [
+      {
+        "imgPath": "show-imgs1.png",
+        "html": "<h2 class='h2'>快速接入<span>2000+</span></h2><p>不同的传感器、物联网设备、不同的协议类型，利用快速接入协议极速接入，采用标签模版适配不同行业需求，<span>随需而变</span>，快速接入。</p>"
+      },
+      {
+        "imgPath": "show-imgs2.png",
+        "html": "<h2 class='h2'>物联网可视化</h2><p>通过实时数据库、组态工具、自动化控制建模，实现工艺控制流程的可视化，实现自动化控制及精准化控制；通过地理信息系统、大数据分析引擎，实现<span>全局管控可视化</span>，实现数据管控，精准决策。</p>"
+      },
+      {
+        "imgPath": "show-imgs3.png",
+        "html": "<h2 class='h2'>开放共享</h2><p>开放共享组件，<span>RESTful套件</span>实现数据授权共享、应用服务共享模型，实现快速的物联网开放化应用，提供合作伙伴良好的二次开发API，从而和大家一起共筑物联网开放生态环境。</p>"
+      }
+    ]
+  },
+  {
+    "name": "工业园区解决方案",
+    "dataName": "slider-env",
+    "show": true,
+    "color": "#18e1f9",
+    "recommend": true,
+    "children": [
+      {
+        "imgPath": "env-park.png",
+        "html": "<h2 class='h2'>园区大脑</h2><p>利用物联设备采集数据来实现对园区的污染源分析、风险预测与排查、一厂一档、企业工况建立高效的基于数据和人工智能的管控机制，实现<span>智能、高效、有序、良好</span>的园区管理与服务体系。</p>"
+      },
+      {
+        "imgPath": "env-params.png",
+        "html": "<h2 class='h2'>保障“青山绿水”实现</h2><p>利用新兴物联网技术结合<span>云计算 、 大数据分析 、空间地理信息</span>建立以污染源监测污染源管理、决策分析一体化的污染源智慧管理综合平台。</p>"
+      },
+      {
+        "imgPath": "env-work.png",
+        "html": "<h2 class='h2'>企业全过程化管控</h2><p>基于智能数据采控搭建<span>全过程、分布式</span>管理体系，面向企业生产过程到末端污染排放建立数据监管平台。</p>"
+      },
+      {
+        "imgPath": "env-record.png",
+        "html": "<h2 class='h2'>闭环化管理</h2><p> 按照环境分类进行污染源“一厂一档”信息管理，对企业基本情况，以及对与其所相关联的信访投诉、执法监察、立案管理、在线监测、排污收费、排污申报等模块进行 <span>闭环化管控</span>。</p>"
+      }
+    ]
+  },
+  {
+    "name": "智慧园区解决方案",
+    "dataName": "slider-garden",
+    "show": true,
+    "color": "#18e1f9",
+    "recommend": true,
+    "children": [
+      {
+        "imgPath": "building-1.png",
+        "html": "<h2 class='h2'>IBMS-智能化管理系统</h2><p>实现智能化集成互联网管理及应用，<span>统一协作，高效协同</span>。</p>"
+      },
+      {
+        "imgPath": "building-2.png",
+        "html": "<h2 class='h2'>ECO-能耗分析管理平台</h2><p><span>统一数据采集与校对</span>；智能能耗统计与分析；高效能效诊断与优化。</p>"
+      },
+      {
+        "imgPath": "building-3.png",
+        "html": "<h2 class='h2'>DMS-设备运维管理平台</h2><p>设备基础档案统一建立；<span>自动移动端报单与派单</span>；设备全生命周期管理。</p>"
+      },
+      {
+        "imgPath": "building-4.png",
+        "html": "<h2 class='h2'>3AS-园区自动化</h2> <p><span>安防自动化</span>SA(SecurityAutomation)，<span>消防自动化</span>FA(FireAutomation),<span>楼宇自动化</span>BA(BuildingAutomation)为安全生产保驾护航。</p>"
+      }
+    ]
+  },
+  {
+    "name": "智创新云解决方案",
+    "dataName": "slider-cloud",
+    "show": true,
+    "color": "#18e1f9",
+    "recommend": true,
+    "children": [
+      {
+        "imgPath": "park.jpg",
+        "html": "<h2 class='h2'>智慧停车系统</h2><p>智慧停车是指将<span>无线通信技术、移动终端技术、GPS定位技术、 GIS技术</span>等综合应用于城市停车位的采集、管理、查询、预订与导航服务， 实现停车位资源的是实时更新、查询、预订与导航服务一体化搜索，智慧停车的“智慧”就体现在： “智能找车位+自动缴停车费”。服务于车主的日常停车、错时停车、车位租赁、汽车后市场服务、反向寻车、停车位导航。</p>"
+      },
+      {
+        "imgPath": "walking.jpg",
+        "html": "<h2 class='h2'>智慧通行系统</h2><p>智慧通行系统的主要是<span>智能门禁管理、访客通行管理、门禁通行模式</span>， 在门禁或通道上的实现和相应的配套管理系统的建设。系统配备中央处理系统， 能很好的与计算机进行联网，进行人员进出的统计管理，同时，也使用户感觉更安全、更便捷。</p>"
+      },
+      {
+        "imgPath": "show-imgs3.png",
+        "html": "<h2 class='h2'>智慧办公系统</h2><p>智能办公系统是为满足企业日益广泛的网络办公自动化需求，为企业提供<span>企业办公、企业决策、知识管理</span>等一体化的解决方案。</p>"
+      }
+    ]
+  },
+  {
+    "name": "企业智能工况",
+    "dataName": "slider-indus",
+    "show": true,
+    "color": "#18e1f9",
+    "recommend": true,
+    "children": [
+      {
+        "imgPath": "index-indus1.jpg",
+        "html": "<h2 class='h2'>可视化</h2> <p><span>地理信息</span>可视化</p> <p><span>数据</span>可视化</p> <p><span>楼层</span>可视化</p> <p><span>工艺</span>可视化</p>"
+      },
+      {
+        "imgPath": "index-indus2.jpg",
+        "html": "<h2 class='h2'>过程监控</h2> <p>实现对企业生产过程中的数据的采集和监控对数据进行智能化分析，实时发现异常</p>"
+      },
+      {
+        "imgPath": "index-indus3.jpg",
+        "html": "<h2 class='h2'>移动APP应用</h2> <p> 移动平台 企业工况实时反馈 获取数据和操作更加简单高效。 </p>"
+      }
+    ]
+  },
+  {
+    "name": "城市物联网解决方案",
+    "dataName": "slider-city",
+    "show": true,
+    "color": "#18e1f9",
+    "recommend": true,
+    "children": [
+      {
+        "imgPath": "login-sense.png",
+        "html": "<h2 class='h2'>园区管理感知平台</h2> <p>通过园区智能感知无线通讯专利技术，用户不需单独布线即可实现<span>单灯的智能控制，综合运用在线监测、自动化控制、地理信息系统（GIS）、远程无线网络通信</span>等先进技术，建立起一个连接整个园区路灯照明设备网络的无线通信平台、资源管理平台与控制管理平台。</p>"
+      },
+      {
+        "imgPath": "login-saving.png",
+        "html": "<h2 class='h2'>节能减排管理平台</h2> <p>节能减排管理平台通过前端的物联传感设备采集信息，融合到物联网云平台，进行实时的<span>数据监测、汇总、分析以及最终辅助决策。</span>通过能源计量，有效解决城市能源浪费、能源损耗等问题，有效做到节能减排。</p>"
+      },
+      {
+        "imgPath": "login-ecology.png",
+        "html": "<h2 class='h2'>生态环境管理平台</h2> <p>通过物联技术实时监测，对其超标的组分进行分析，并进行一定的追溯，对污染物排放、源头进行严格管理；建立<span>可视化的GIS平台</span>，对实时环境质量进行<span>分析，测评</span>；有针对性的采取治理措施。</p>"
+      },
+      {
+        "imgPath": "login-energy.png",
+        "html": "<h2 class='h2'>能源管理综合平台</h2> <p>在能源格局快速变革的大环境下，“智慧能源”作为下一代能源企业的整套<span>自动化、信息化</span>解决方案，可以提高管网运营维护的水平和对用户的服务水平，面对环境保护的巨大压力，降低损耗提高自身的管理水平，帮助能源集团建立起<span>能源（电、燃气）网运行和管理的“中枢神经系统”</span>。</p>"
+      },
+      {
+        "imgPath": "login-monitor.png",
+        "html": "<h2 class='h2'>城市监测管理平台</h2> <p>城市地质灾害监测方法主要有卫星与遥感监测；地面、地下、水面、水下直接观测与仪器台网监测。今后地质灾害监测的发展趋向是：全面<span>提高监测能力,丰富监测内容,提高信息处理和综合分析能力</span>；在加强专业监测的同时,在灾害多发区建立<span>群测群防体系,大力推进社会化监测</span>工作；把地质灾害监测同其他一些自然灾害以及环境监测有机地结合起来,形成广泛的综合监测网络。</p>"
+      },
+      {
+        "imgPath": "park.png",
+        "html": "<h2 class='h2'>视频智能综合物联平台</h2> <p>视频智能综合物联平台是指将<span>无线通信技术、移动终端技术、GPS定位技术、 GIS技术</span>等综合应用于城市停车位的采集、管理、查询、预订与导航服务， 实现停车位资源的是实时更新、查询、预订与导航服务一体化搜索，智慧停车的“智慧”就体现在： “智能找车位+自动缴停车费”。服务于车主的日常停车、错时停车、车位租赁、汽车后市场服务、反向寻车、停车位导航。</p>"
+      }
+    ]
+  },
+  {
+    "name": "智慧消防解决方案",
+    "dataName": "slider-fire",
+    "show": true,
+    "color": "#18e1f9",
+    "recommend": true,
+    "children": [
+      {
+        "imgPath": "wifi.png",
+        "html": "<h2 class='h2'>物联世界-<span>连接无限可能</span></h2> <p> 在PWAN(低功能广域物联网)技术飞速发展的大环境下， 物联网安防成为行业发展趋势。物联网消防以其<span>远距离、 高扩展、数据加密、实时监控</span>等特点，解决了用户实际痛点。 </p>"
+      },
+      {
+        "imgPath": "phone.png",
+        "html": "<h2 class='h2'>新一代移动消防运维</h2> <p> 可对业务系统及支撑业务系统的所有消防资源进行<span>7*24小时全面监控</span>， 提供性能监控与分析、资源可用性监控与分析、资源拓扑关系管理、 故障监控、故障分析及定位，帮助消防运维人员提升工作效率。 </p>"
+      },
+      {
+        "imgPath": "system.jpg",
+        "html": "<h2 class='h2'>“大数据”“一张图”的调度指挥系统</h2> <p> 建设“一张图”可视化指挥调度系统，直观查看消防车分布位置、车况信息 、车载救援物资种类和数量，救援人员分布情况和人员身体状况，室外消 火栓及自然水系分布情况，及附近区域内可调配的人员、物资情况，为 <span>消防智慧调度提供全面信息</span>，快速反应。 </p>"
+      }
+    ]
+  },
+  {
+    "name": "云端数智互联",
+    "dataName": "slider-digital",
+    "show": true,
+    "color": "#e43041",
+    "recommend": false,
+    "children": [
+      {
+        "imgPath": "police.png",
+        "html": "<h2 class='h2'><span>公安专用</span></h2> <p> 标准数据接口，实时传送立体化防控数据，<span>快速、便捷、高效</span>。</p>"
+      },
+      {
+        "imgPath": "bank.png",
+        "html": "<h2 class='h2'>数字银行</h2> <p> 数字银行依赖于社区大数据，通过<span>E卡通、社区大数据</span>，分析和采用所有新技术来改善客户体验。</p>"
+      },
+      {
+        "imgPath": "Esb.png",
+        "html": "<h2 class='h2'>ESB数据交换总线</h2> <p> 通过云端ESB数据总线，汇聚<span>社区、街道、公安数据中台</span>，通过数据赋能，实现高速的数据交换中台，创造多边价值链条。</p>"
+      },
+      {
+        "imgPath": "show-imgs1.png",
+        "html": "<h2 class='h2'>微服务</h2> <p> 通过开放的API开发应用，围绕着业务领域组件来创建应用，在云端可<span>独立地进行开发、管理和加速</span>微应用中心。</p>"
+      }
+    ]
+  },
+  {
+    "name": "社区智慧大脑",
+    "dataName": "slider-brain",
+    "show": true,
+    "color": "#2cc9ff",
+    "recommend": true,
+    "children": [
+      {
+        "imgPath": "index-measurement.png",
+        "html": "<h2 class='h2'>社会治理指数计量</h2><p>社会治理指数系统旨在通过客观指标和过程性指标数据，综合衡量全市社会治理状况，实现社会稳定风险预警，辅助党委、政府、相关部门及各镇街的决策，深入地推进了<span>基层治理体系和治理能力的现代化</span>。</p>"
+      },
+      {
+        "imgPath": "command-dispatch.png",
+        "html": "<h2 class='h2'>智能指挥调度平台</h2><p>融合<span>数据智能和智能算法</span>能力，包括路径轨迹、指挥作战过程可视、周边视频调度和指挥处置资源智能调度算法等。</p>"
+      },
+      {
+        "imgPath": "efficient-management.png",
+        "html": "<h2 class='h2'>基层高效治理平台</h2><p>实时动态掌握网格工作力量分布、智能推送任务、自动考核。以<span>推动区基层治理面向现代化、精准化、可视化、智能化</span>为目标。</p>"
+      },
+      {
+        "imgPath": "env-work.png",
+        "html": "<h2 class='h2'>社区全过程化管控</h2><p>基于智能数据采控搭建<span>全过程、分布式</span>管理体系，面向社区立体化防护到物业服务，建立数据监管平台。</p>"
+      },
+      {
+        "imgPath": "env-record.png",
+        "html": "<h2 class='h2'>闭环化管理</h2> <p> 按照智安分类进行信息管理，对社区基本情况，以及对与其所相关联的信访投诉、执法监察、立案管理、在线监管、治安防护等模块进行<span>闭环化管控</span>。 </p>"
+      }
+    ]
+  },
+  {
+    "name": "社区采集应用管理",
+    "dataName": "slider-control",
+    "show": true,
+    "color": "#4982f3",
+    "recommend": true,
+    "children": [
+      {
+        "imgPath": "community-awareness.png",
+        "html": "<h2 class='h2'>社区全感知子系统</h2> <p> 提供支持采集接入车辆、人脸、RFID、MAC、访客等数据，后期拓展周界、消防、供电、供水等其他物联数据（可结合智慧内保系统建设）。可提供<span>车辆、人脸、MAC、RFID布控能力</span>；人脸支持<span>3色预警、聚类建档、轨迹服务</span>。</p>"
+      },
+      {
+        "imgPath": "actual-combat.png",
+        "html": "<h2 class='h2'>实战应用子系统</h2> <p>一标四实采集：通过小区、物业服务平台<span>采集数据</span>，与公安实有人口管理平台<span>互动校核</span>，空置房可结合供电、供水、供气情况进行<span>自动核对</span>，达到100%<span>精准落实</span>实住人口管理信息。</p>"
+      },
+      {
+        "imgPath": "show-imgs1.png",
+        "html": "<h2 class='h2'>物联世界-<span>连接无限可能</span></h2> <p> 在PWAN(低功能广域物联网)技术飞速发展的大环境下， 物联网安防成为行业发展趋势。物联网消防以其<span>远距离、 高扩展、数据加密、实时监控</span>等特点，解决了用户实际痛点。 </p>"
+      },
+      {
+        "imgPath": "login-sense.png",
+        "html": "<h2 class='h2'>城市物联感知单元</h2> <p>通过城市智能感知无线通讯专利技术，<span>综合运用在线监测、自动化控制、地理信息系统（GIS）、远程无线网络通信等</span>先进技术，建立起一个连接整个城市神经单元网络的无线通信平台、资源管理平台与控制管理平台。</p>"
+      },
+      {
+        "imgPath": "login-saving.png",
+        "html": "<h2 class='h2'>节能减排管理平台</h2> <p>节能减排管理平台通过前端的物联传感设备采集信息，融合到物联网云平台，进行实时的<span>数据监测、汇总、分析以及最终辅助决策。</span>通过能源计量，有效解决城市能源浪费、能源损耗等问题，有效做到节能减排。</p>"
+      },
+      {
+        "imgPath": "park.png",
+        "html": "<h2 class='h2'>视频智能综合物联平台</h2> <p>视频智能综合物联平台是指将无线通信技术、移动终端技术、GPS定位技术、 GIS技术等综合应用于城市停车位的采集、管理、查询、预订与导航服务， 实现停车位资源的是<span>实时更新、查询、预订与导航</span>服务一体化搜索，智慧停车的“智慧”就体现在： <span>“智能找车位+自动缴停车费”</span>。服务于车主的日常停车、错时停车、车位租赁、汽车后市场服务、反向寻车、停车位导航。</p>"
+      }
+    ]
+  },
+  {
+    "name": "社区综合服务",
+    "dataName": "slider-operational",
+    "show": true,
+    "color": "#ff8941",
+    "recommend": true,
+    "children": [
+      {
+        "imgPath": "commercial-operation.png",
+        "html": "<h2 class='h2'>商业操作系统</h2> <p> 构建起了<span>商业购物、本地生活服务、文化娱乐等业务心态和商业场景</span>，沉淀了自身的在线化、数字化能力，这些业态、场景、能力与大数据、云计算、物联网、人工智能等深度融合，就形成了独特的社区商业操作系统。</p>"
+      },
+      {
+        "imgPath": "attract-investment.png",
+        "html": "<h2 class='h2'>招商服务</h2> <p> 通过互联网、产业链、政府配套，实现<span>多维招商引资、经济开发、项目服务、宣传推广、商务信息交流</span>。</p>"
+      },
+      {
+        "imgPath": "property.png",
+        "html": "<h2 class='h2'>闭环物业管理</h2> <p> 建设“物业运行监测平台、物业服务监测服务平台、人口动态监测平台、风险预警平台、信息数据采集上报平台、楼宇基础公共服务平台”六大平台，实现“<span>数据可视化、监测自动化、处置智能化、物业处置现代化</span>”。</p>"
+      },
+      {
+        "imgPath": "e-pay.png",
+        "html": "<h2 class='h2'>E闪付</h2> <p>将便利店和停车，物业等消费场景无缝整合成闭环，形成智慧经济运营体，激活消费频次成为建设<span>品质可控、协同发展</span>的智慧社区的有效抓手。</p>"
+      }
+    ]
+  },
+  {
+    "name": "数字化基础套件",
+    "dataName": "slider-kit",
+    "show": true,
+    "color": "#20dca2",
+    "recommend": false,
+    "children": [
+      {
+        "imgPath": "show-imgs1.png",
+        "html": "<h2 class='h2'>快速接入<span>2000+</span></h2><p>不同的传感器、物联网设备、不同的协议类型，利用快速接入协议极速接入，采用标签模版适配不同行业需求，<span>随需而变</span>，快速接入。</p>"
+      },
+      {
+        "imgPath": "show-imgs2.png",
+        "html": "<h2 class='h2'>物联网可视化</h2><p>通过实时数据库、组态工具、自动化控制建模，实现工艺控制流程的可视化，实现自动化控制及精准化控制；通过地理信息系统、大数据分析引擎，实现<span>全局管控可视化</span>，实现数据管控，精准决策。</p>"
+      },
+      {
+        "imgPath": "show-imgs3.png",
+        "html": "<h2 class='h2'>开放共享</h2><p>开放共享组件，<span>RESTful套件</span>实现数据授权共享、应用服务共享模型，实现快速的物联网开放化应用，提供符合公安数据交换标准的二次开发API，从而和大家一起共筑物联网开放生态环境。</p>"
+      }
+    ]
+  },
+  {
+    "name": "数智分发治理",
+    "dataName": "slider-ddg",
+    "show": true,
+    "color": "#e43041",
+    "recommend": false,
+    "children": [
+      {
+        "imgPath": "ddg-imgs1.png",
+        "html": "<h2 class='h2'>雪亮资源共享</h2><p>充分利用“雪亮工程”、智慧安防小区的成果，汇聚整合物联网、视频、互联网、精准时空位置数据等数据资源，利用数据智能技术实现<span>全面感知、智能调度</span>的能力构建扁平化的分布式城市事件处置机制，以人工+智能相结合的方式大大提升社会治理效率。</p>"
+      },
+      {
+        "imgPath": "ddg-imgs2.png",
+        "html": "<h2 class='h2'>视频图像数据交换</h2><p>集中本地各类智安系统业务应用进行，制定相关的数据规范和信息交换标准，使机关各部门、上级部门业务系统依托开放平台进行开发建设。实现部门之间系统之间的<span>互联互通、数据共享</span>，为大数据分析提供数据依据。</p>"
+      },
+      {
+        "imgPath": "ddg-imgs3.png",
+        "html": "<h2 class='h2'>物联感知数据</h2><p>搭建社区大数据平台，通过汇聚收集汇聚各类重点区域<span>视频监控、人脸分析、车辆分析、WiFi探针</span>等数据，为目标区域安全治理提供智慧化的科学指导。</p>"
+      },
+      {
+        "imgPath": "ddg-imgs4.png",
+        "html": "<h2 class='h2'>镇街九大应用  九大业务共享</h2><p>打造以区、镇、村社、网格四级信息联动管理系统。实时动态掌握网格工作力量分布、智能推送任务、自动考核。以推动柯城区基层治理面向<span>现代化、精准化、可视化、智能化</span>为目标。</p>"
+      }
+    ]
+  },
+  {
+    "name": "智慧警务数据中心",
+    "dataName": "slider-zhjw",
+    "show": true,
+    "color": "#ff8941",
+    "recommend": false,
+    "children": [
+      {
+        "imgPath": "number-plates-recognition.png",
+        "html": "<h2 class='h2'>车牌识别及智能布控系统</h2> <p> 对监测区域、路口通行车辆进行监管，实现<span>车辆抓拍、电瓶车抓拍、违规抓拍</span>等，通过视频监控技术、特征分析技术、车牌识别技术，对过往车辆（包括汽车、三轮车、电瓶车等）进行全局监测，全局布控。</p>"
+      },
+      {
+        "imgPath": "face-recognition.png",
+        "html": "<h2 class='h2'>人脸监测及布控系统</h2> <p> 在重点出入口、重点区域，进行人脸布控，可通过人脸识别系统<span>识别危险人员或者走失人员</span>。</p>"
+      },
+      {
+        "imgPath": "non-motorized-vehicle.png",
+        "html": "<h2 class='h2'>非机动车监测及布控系统</h2> <p>利用RFID技术，在电瓶车上安装射频模块，在小区各个关键区域，路口安装感应接受设备，能够有效记录电瓶车的行动轨迹，在电瓶车失窃时内<span>协助追踪</span>。</p>"
+      },
+      {
+        "imgPath": "mac-acquisition.png",
+        "html": "<h2 class='h2'>MAC采集及监测系统</h2> <p>用于治安管理，包括人员信息的确认，应用场景有多重，如<span>网络逃犯追查、造谣者追查、窃贼</span>等。</p>"
+      },
+      {
+        "imgPath": "police-work.png",
+        "html": "<h2 class='h2'>警务大数据可视化</h2> <p>对于发生的警情，通过立体化防控分析，运用视频联动技术、人脸识别技术、车辆识别技术、特征分析技术，实现对警情相关的数据进行大数据运算，<span>提供关键线索及依据，并进行可视化展示</span>。</p>"
+      }
+    ]
+  },
+
+  
+  {
+    "name": "云端数智互联",
+    "dataName": "parking-cloud",
+    "show": true,
+    "color": "#3257e4",
+    "recommend": false,
+    "children": [
+      {
+        "imgPath": "cloud1.png",
+        "html": "<h2 class='h2'>无杆停车管理平台</h2> <p>建立无杆停车管理平台，完成不同系统的兼容使用，使各个停车场服务实现用户数据同步，并将数据统一汇总至数据中心，实现<span>统一管理，降低成本，提高管理效率</span>。</p>"
+      },
+      {
+        "imgPath": "cloud2.png",
+        "html": "<h2 class='h2'>智慧化城市</h2> <p> 通过手机微信小程序，结合新兴的移动互联模式，搭配人、车、物业领域的技术创新，提升整个城市<span>智慧化水平</span>，体现<span>人文管理和文明服务</span>。</p>"
+      }
+    ]
+  },
+  {
+    "name": "人车服务协同平台",
+    "dataName": "parking-travel",
+    "show": true,
+    "color": "#ff8941",
+    "recommend": false,
+    "children": [
+      {
+        "imgPath": "travel.png",
+        "html": "<h2 class='h2'>智慧出行</h2> <p>建设数字界面，方便游客找车场、停车预约、找车位、停车缴费、<span>欠费补缴</span>、开发票等便民服务。</p>"
+      }
+    ]
+  },
+  {
+    "name": "无杆停车大脑",
+    "dataName": "parking-brain",
+    "show": true,
+    "color": "#20dca2",
+    "recommend": true,
+    "children": [
+      {
+        "imgPath": "brain1.png",
+        "html": "<h2 class='h2'>合理分配停车资源</h2> <p>对<span>车位分布、停车结构</span>等进行智能的科学分析，制定分时段、分地段的收费政策，合理分配城市停车资源。</p>"
+      },
+      {
+        "imgPath": "brain2.png",
+        "html": "<h2 class='h2'>数据中心</h2> <p>实现用户数据同步，将数据统一汇总至数据中心，实现<span>统一管理，降低成本，提高管理效率</span>。</p>"
+      }
+    ]
+  },
+  {
+    "name": "综合物联网管控",
+    "dataName": "parking-iot",
+    "show": true,
+    "color": "#e43041",
+    "recommend": true,
+    "children": [
+      {
+        "imgPath": "show-imgs1.png",
+        "html": "<h2 class='h2'>物联世界-连接无限可能</h2> <p>结合新兴的移动互联模式，搭配<span>人、车、物业</span>领域的技术创新，提升整个城市智慧化水平，体现人文管理和文明服务。</p>"
+      },
+      {
+        "imgPath": "login-monitor.png",
+        "html": "<h2 class='h2'>信息安全可靠</h2> <p>在大数据，高并发状态下，保证系统稳定可靠性。所有业务数据传输<span>携带验证信息</span>，确保流转信息安全可靠。</p>"
+      }
+    ]
+  },
+  {
+    "name": "一站式催缴平台",
+    "dataName": "parking-urge",
+    "show": true,
+    "color": "#2cc9ff",
+    "recommend": true,
+    "children": [
+      {
+        "imgPath": "urge1.png",
+        "html": "<h2 class='h2'>催缴全场景覆盖</h2> <p>“<span>线上催缴+线下催缴</span>”相结合，提升停车缴费率，实现催缴环节全场景覆盖</p>"
+      },
+      {
+        "imgPath": "urge2.png",
+        "html": "<h2 class='h2'>应收催缴</h2> <p>场库通过<span>自动上报过车信息、账单信息</span>，实现未缴账单上链后，设置实现自动化的短信、APP、电话等多种方式催缴，实现应收费用的催缴。</p>"
+      }
+    ]
+  }
+
+]
